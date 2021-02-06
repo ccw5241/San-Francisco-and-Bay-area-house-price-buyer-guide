@@ -1,0 +1,511 @@
+Address,City,State,Zip Code,Bath,Bed,House Type,Sold Price,Sqft,Year Build
+675 Prentiss St, San Francisco,CA,94110,1.0,3.0,Single Family Residence,1150000.0,1204.0,1959
+936 Olmstead St, San Francisco,CA,94134,1.0,2.0,Single Family Residence,1100000.0,1016.0,1952
+1880 Steiner St #409, San Francisco,CA,94115,2.0,2.0,Condominium,1261000.0,983.0,1999
+259 Wilson St, San Francisco,CA,94112,1.0,2.0,Single Family Residence,875000.0,880.0,1914
+501 Crescent Way #5212, San Francisco,CA,94134,2.0,2.0,Condominium,760000.0,875.0,2006
+451 Stoneridge Ln #3102, San Francisco,CA,94134,2.0,2.0,Condominium,750000.0,1068.0,1996
+115 Colby St, San Francisco,CA,94134,3.0,3.0,Single Family Residence,1750000.0,1715.0,1970
+643 40th Ave, San Francisco,CA,94121,1.5,3.0,Single Family Residence,1610000.0,1448.0,1924
+1055 Gilman Ave, San Francisco,CA,94124,1.0,2.0,Single Family Residence,800000.0,950.0,1908
+1863 Pine St, San Francisco,CA,94109,1.5,3.0,Single Family Residence,1485000.0,1390.0,1900
+647 34th Ave, San Francisco,CA,94121,3.0,4.0,Single Family Residence,2065000.0,2432.0,1926
+210 Rose St, San Francisco,CA,94102,1.0,2.0,Condominium,1102101.0,859.0,1900
+635 42nd Ave, San Francisco,CA,94121,4.5,4.0,Single Family Residence,2900000.0,2518.0,1923
+659 26th Ave, San Francisco,CA,94121,3.5,3.0,Single Family Residence,1880000.0,2038.0,1913
+80 Miraloma Dr, San Francisco,CA,94127,3.0,4.0,Single Family Residence,2200000.0,2984.0,1960
+2426 Santiago St, San Francisco,CA,94116,2.0,3.0,Single Family Residence,1500000.0,1646.0,1940
+28 Nebraska St, San Francisco,CA,94110,2.0,4.0,Single Family Residence,1785000.0,1758.0,1926
+278 Thrift St, San Francisco,CA,94112,2.0,3.0,Single Family Residence,995000.0,1293.0,1960
+4040 Balboa St #3, San Francisco,CA,94121,1.0,2.0,Condominium,729000.0,670.0,1998
+371 Wilde Ave, San Francisco,CA,94134,1.0,2.0,Single Family Residence,975000.0,1027.0,1951
+8200 Oceanview Ter #121, San Francisco,CA,94132,2.0,3.0,Condominium,830000.0,1186.0,2002
+722 37th Ave, San Francisco,CA,94121,2.5,3.0,Single Family Residence,1640000.0,1700.0,1939
+73 Dolores Ter, San Francisco,CA,94110,2.5,3.0,Townhouse,1980000.0,1548.0,1998
+1887 42nd Ave, San Francisco,CA,94122,2.0,3.0,Single Family Residence,1000000.0,1289.0,1944
+2346 Clement St #1, San Francisco,CA,94121,2.5,2.0,Condominium,1050000.0,1265.0,2002
+149 Bertita St, San Francisco,CA,94112,1.0,1.0,Single Family Residence,850000.0,988.0,1918
+1318 Larkin St, San Francisco,CA,94109,1.5,3.0,Condominium,1174000.0,1820.0,1908
+179 Tucker Ave, San Francisco,CA,94134,1.0,2.0,Single Family Residence,1002616.0,1040.0,1951
+95 Red Rock Way #102M, San Francisco,CA,94131,1.0,1.0,Condominium,675000.0,830.0,1972
+2186 34th Ave, San Francisco,CA,94116,2.0,5.0,Single Family Residence,1460000.0,1900.0,1948
+35 Cityview Way, San Francisco,CA,94131,4.0,4.0,Single Family Residence,2130000.0,2088.0,1955
+675 Prentiss St, San Francisco,CA,94110,1.0,3.0,Single Family Residence,1150000.0,1204.0,1959
+936 Olmstead St, San Francisco,CA,94134,1.0,2.0,Single Family Residence,1100000.0,1016.0,1952
+1880 Steiner St #409, San Francisco,CA,94115,2.0,2.0,Condominium,1261000.0,983.0,1999
+259 Wilson St, San Francisco,CA,94112,1.0,2.0,Single Family Residence,875000.0,880.0,1914
+501 Crescent Way #5212, San Francisco,CA,94134,2.0,2.0,Condominium,760000.0,875.0,2006
+451 Stoneridge Ln #3102, San Francisco,CA,94134,2.0,2.0,Condominium,750000.0,1068.0,1996
+115 Colby St, San Francisco,CA,94134,3.0,3.0,Single Family Residence,1750000.0,1715.0,1970
+643 40th Ave, San Francisco,CA,94121,1.5,3.0,Single Family Residence,1610000.0,1448.0,1924
+1055 Gilman Ave, San Francisco,CA,94124,1.0,2.0,Single Family Residence,800000.0,950.0,1908
+1863 Pine St, San Francisco,CA,94109,1.5,3.0,Single Family Residence,1485000.0,1390.0,1900
+647 34th Ave, San Francisco,CA,94121,3.0,4.0,Single Family Residence,2065000.0,2432.0,1926
+210 Rose St, San Francisco,CA,94102,1.0,2.0,Condominium,1102101.0,859.0,1900
+635 42nd Ave, San Francisco,CA,94121,4.5,4.0,Single Family Residence,2900000.0,2518.0,1923
+659 26th Ave, San Francisco,CA,94121,3.5,3.0,Single Family Residence,1880000.0,2038.0,1913
+80 Miraloma Dr, San Francisco,CA,94127,3.0,4.0,Single Family Residence,2200000.0,2984.0,1960
+2426 Santiago St, San Francisco,CA,94116,2.0,3.0,Single Family Residence,1500000.0,1646.0,1940
+28 Nebraska St, San Francisco,CA,94110,2.0,4.0,Single Family Residence,1785000.0,1758.0,1926
+278 Thrift St, San Francisco,CA,94112,2.0,3.0,Single Family Residence,995000.0,1293.0,1960
+4040 Balboa St #3, San Francisco,CA,94121,1.0,2.0,Condominium,729000.0,670.0,1998
+371 Wilde Ave, San Francisco,CA,94134,1.0,2.0,Single Family Residence,975000.0,1027.0,1951
+8200 Oceanview Ter #121, San Francisco,CA,94132,2.0,3.0,Condominium,830000.0,1186.0,2002
+722 37th Ave, San Francisco,CA,94121,2.5,3.0,Single Family Residence,1640000.0,1700.0,1939
+73 Dolores Ter, San Francisco,CA,94110,2.5,3.0,Townhouse,1980000.0,1548.0,1998
+1887 42nd Ave, San Francisco,CA,94122,2.0,3.0,Single Family Residence,1000000.0,1289.0,1944
+2346 Clement St #1, San Francisco,CA,94121,2.5,2.0,Condominium,1050000.0,1265.0,2002
+149 Bertita St, San Francisco,CA,94112,1.0,1.0,Single Family Residence,850000.0,988.0,1918
+1318 Larkin St, San Francisco,CA,94109,1.5,3.0,Condominium,1174000.0,1820.0,1908
+179 Tucker Ave, San Francisco,CA,94134,1.0,2.0,Single Family Residence,1002616.0,1040.0,1951
+95 Red Rock Way #102M, San Francisco,CA,94131,1.0,1.0,Condominium,675000.0,830.0,1972
+2186 34th Ave, San Francisco,CA,94116,2.0,5.0,Single Family Residence,1460000.0,1900.0,1948
+35 Cityview Way, San Francisco,CA,94131,4.0,4.0,Single Family Residence,2130000.0,2088.0,1955
+758 Haight St #2, San Francisco,CA,94117,1.0,1.0,Condominium,850000.0,665.0,1900
+815 Tennessee St #204, San Francisco,CA,94107,2.0,2.0,Condominium,1245000.0,925.0,2018
+73 Norton St, San Francisco,CA,94112,2.0,2.0,Single Family Residence,978000.0,1350.0,1939
+9 Toyon Ln, San Francisco,CA,94112,1.5,3.0,Single Family Residence,1180000.0,1270.0,1925
+611 Mason St #508, San Francisco,CA,94108,2.0,2.0,Condominium,900000.0,978.0,1986
+50 Lansing St #104, San Francisco,CA,94105,2.0,2.0,Condominium,1050000.0,989.0,2006
+178 Ridgewood Ave C, San Francisco,CA,94112,2.0,3.0,Townhouse,1100000.0,1355.0,1997
+401 Crescent Ct #4103, San Francisco,CA,94134,1.0,1.0,Condominium,570000.0,805.0,2007
+3701 Market St #2, San Francisco,CA,94131,2.0,2.0,Condominium,1150000.0,1232.0,1962
+1614 27th Ave, San Francisco,CA,94122,2.0,2.0,Single Family Residence,1350000.0,1886.0,1937
+477 45th Ave, San Francisco,CA,94121,1.0,2.0,Single Family Residence,1350000.0,1200.0,1923
+5800 3rd St #1120, San Francisco,CA,94124,2.0,2.0,Condominium,805000.0,1083.0,2010
+214 Dorland St, San Francisco,CA,94114,1.0,2.0,Condominium,1375000.0,991.0,1910
+1252 Church St, San Francisco,CA,94114,1.0,2.0,Single Family Residence,1050000.0,1050.0,1900
+1986 42nd Ave, San Francisco,CA,94116,2.0,3.0,Single Family Residence,1125000.0,1214.0,1949
+814 Grafton Ave, San Francisco,CA,94112,1.0,2.0,Single Family Residence,925000.0,1150.0,1936
+100 Augusta St, San Francisco,CA,94124,3.0,4.0,Single Family Residence,1320000.0,2075.0,1947
+201 Folsom St #33E, San Francisco,CA,94105,3.0,3.0,Condominium,3300000.0,1784.0,2016
+645 42nd Ave, San Francisco,CA,94121,1.0,3.0,Single Family Residence,1521000.0,1567.0,1923
+2336 Sloat Blvd, San Francisco,CA,94116,1.0,3.0,Single Family Residence,1300000.0,1350.0,1948
+52 Harper St, San Francisco,CA,94131,2.0,2.0,Single Family Residence,1510000.0,1293.0,1914
+1880 16th Ave, San Francisco,CA,94122,2.0,4.0,Single Family Residence,1875000.0,2300.0,1938
+1946 30th Ave, San Francisco,CA,94116,3.0,4.0,Single Family Residence,1630000.0,1752.0,1940
+151 23rd Ave, San Francisco,CA,94121,3.5,3.0,Condominium,1900000.0,2201.0,1923
+3037 Van Ness Ave #2, San Francisco,CA,94109,1.0,2.0,Condominium,899000.0,811.0,1922
+125 Alma St, San Francisco,CA,94117,2.0,3.0,Single Family Residence,1925000.0,963.0,1910
+2776 San Jose Ave, San Francisco,CA,94112,3.0,5.0,Single Family Residence,1250000.0,2137.0,1961
+60 Racine Ln, San Francisco,CA,94134,4.0,6.0,Single Family Residence,1550000.0,2315.0,1953
+2090 31st Ave, San Francisco,CA,94116,2.0,3.0,Single Family Residence,1213000.0,1200.0,1950
+8200 Oceanview Ter #320, San Francisco,CA,94132,2.0,2.0,Condominium,855000.0,1005.0,2002
+1610 Alemany Blvd, San Francisco,CA,94112,2.0,3.0,Single Family Residence,1200000.0,2028.0,1940
+2271 40th Ave, San Francisco,CA,94116,4.0,4.0,Single Family Residence,1768500.0,1775.0,1948
+2038 20th Ave, San Francisco,CA,94116,4.5,4.0,Single Family Residence,2100000.0,2246.0,1929
+75 Montcalm St, San Francisco,CA,94110,1.0,2.0,Single Family Residence,980000.0,900.0,1906
+701 Quintara St, San Francisco,CA,94116,4.5,4.0,Single Family Residence,1900000.0,1818.0,1940
+301 Mission St #8E, San Francisco,CA,94105,2.0,2.0,Condominium,925000.0,1098.0,2009
+829 Oak St B, San Francisco,CA,94117,2.0,2.0,Condominium,899000.0,816.0,1900
+2944 19th Ave, San Francisco,CA,94132,1.5,2.0,Single Family Residence,1260000.0,1813.0,1938
+11 Ervine St, San Francisco,CA,94134,2.5,3.0,Single Family Residence,945000.0,2157.0,1989
+42nd Ave, San Francisco,CA,94116,2.0,3.0,Single Family Residence,1220000.0,1494.0,1967
+684 Clarendon Ave, San Francisco,CA,94131,2.5,2.0,Townhouse,1150000.0,1485.0,1977
+1788 Clay St #308, San Francisco,CA,94109,2.0,2.0,Condominium,1410000.0,1235.0,2014
+29 Kiska Rd, San Francisco,CA,94124,1.0,2.0,Condominium,630000.0,1272.0,1996
+4326 Cabrillo St, San Francisco,CA,94121,1.0,2.0,Single Family Residence,1308000.0,1491.0,1923
+439 Greenwich St #3B, San Francisco,CA,94133,1.0,1.0,Condominium,710000.0,514.0,1979
+277 Munich St, San Francisco,CA,94112,1.0,3.0,Single Family Residence,800000.0,822.0,1908
+1915 Funston Ave, San Francisco,CA,94116,2.0,4.0,Single Family Residence,1615000.0,1929.0,1959
+2450 30th Ave, San Francisco,CA,94116,2.0,3.0,Single Family Residence,1300000.0,1563.0,1939
+774 Potrero Ave, San Francisco,CA,94110,1.5,3.0,Single Family Residence,1350000.0,1740.0,1924
+1866 Egbert Ave, San Francisco,CA,94124,2.0,3.0,Single Family Residence,952000.0,1547.0,1925
+55 Arco Way, San Francisco,CA,94112,1.5,2.0,Single Family Residence,1100000.0,1065.0,1941
+1618 36th Ave, San Francisco,CA,94122,3.0,2.0,Single Family Residence,1450000.0,1790.0,1938
+112 Russ St, San Francisco,CA,94103,2.0,2.0,Condominium,860000.0,811.0,1908
+147 Silliman St, San Francisco,CA,94134,1.0,3.0,Single Family Residence,898000.0,1275.0,1905
+109 S Lake Merced Hls #3A, San Francisco,CA,94132,2.0,2.0,Condominium,740000.0,1474.0,1975
+372 Pope St, San Francisco,CA,94112,1.0,2.0,Single Family Residence,1135000.0,1749.0,1929
+1788 Clay St #607, San Francisco,CA,94109,1.0,1.0,Condominium,985000.0,764.0,2014
+699 Pennsylvania Ave #1, San Francisco,CA,94107,1.5,1.0,Condominium,810000.0,971.0,2001
+639 25th Ave, San Francisco,CA,94121,2.0,3.0,Single Family Residence,1375000.0,1844.0,1920
+2112 Hyde St #1, San Francisco,CA,94109,1.5,2.0,Condominium,1300000.0,888.0,1964
+87 Santa Cruz Ave, San Francisco,CA,94112,2.5,3.0,Single Family Residence,1160000.0,1263.0,1950
+223 Byxbee St, San Francisco,CA,94132,1.0,2.0,Single Family Residence,1000000.0,812.0,1942
+2343 30th Ave, San Francisco,CA,94116,4.5,4.0,Single Family Residence,1600000.0,2016.0,1938
+1982 44th Ave, San Francisco,CA,94116,1.0,3.0,Single Family Residence,1370000.0,1150.0,1945
+798 Monterey Blvd #3A, San Francisco,CA,94127,2.0,2.0,Condominium,950000.0,1089.0,1986
+84 Dorland St #2, San Francisco,CA,94110,1.0,2.0,Condominium,1390000.0,1375.0,1915
+3207 Jennings St, San Francisco,CA,94124,2.5,3.0,Single Family Residence,1225000.0,1632.0,1911
+254 Brussels St, San Francisco,CA,94134,1.0,2.0,Single Family Residence,809000.0,1375.0,1927
+26 Cross St, San Francisco,CA,94112,1.0,1.0,Single Family Residence,930000.0,1155.0,1927
+11 Ervine St, San Francisco,CA,94134,2.5,3.0,Single Family Residence,945000.0,2157.0,1989
+42nd Ave, San Francisco,CA,94116,2.0,3.0,Single Family Residence,1220000.0,1494.0,1967
+684 Clarendon Ave, San Francisco,CA,94131,2.5,2.0,Townhouse,1150000.0,1485.0,1977
+1788 Clay St #308, San Francisco,CA,94109,2.0,2.0,Condominium,1410000.0,1235.0,2014
+29 Kiska Rd, San Francisco,CA,94124,1.0,2.0,Condominium,630000.0,1272.0,1996
+4326 Cabrillo St, San Francisco,CA,94121,1.0,2.0,Single Family Residence,1308000.0,1491.0,1923
+439 Greenwich St #3B, San Francisco,CA,94133,1.0,1.0,Condominium,710000.0,514.0,1979
+277 Munich St, San Francisco,CA,94112,1.0,3.0,Single Family Residence,800000.0,822.0,1908
+1915 Funston Ave, San Francisco,CA,94116,2.0,4.0,Single Family Residence,1615000.0,1929.0,1959
+2450 30th Ave, San Francisco,CA,94116,2.0,3.0,Single Family Residence,1300000.0,1563.0,1939
+774 Potrero Ave, San Francisco,CA,94110,1.5,3.0,Single Family Residence,1350000.0,1740.0,1924
+1866 Egbert Ave, San Francisco,CA,94124,2.0,3.0,Single Family Residence,952000.0,1547.0,1925
+55 Arco Way, San Francisco,CA,94112,1.5,2.0,Single Family Residence,1100000.0,1065.0,1941
+1618 36th Ave, San Francisco,CA,94122,3.0,2.0,Single Family Residence,1450000.0,1790.0,1938
+112 Russ St, San Francisco,CA,94103,2.0,2.0,Condominium,860000.0,811.0,1908
+147 Silliman St, San Francisco,CA,94134,1.0,3.0,Single Family Residence,898000.0,1275.0,1905
+109 S Lake Merced Hls #3A, San Francisco,CA,94132,2.0,2.0,Condominium,740000.0,1474.0,1975
+372 Pope St, San Francisco,CA,94112,1.0,2.0,Single Family Residence,1135000.0,1749.0,1929
+1788 Clay St #607, San Francisco,CA,94109,1.0,1.0,Condominium,985000.0,764.0,2014
+699 Pennsylvania Ave #1, San Francisco,CA,94107,1.5,1.0,Condominium,810000.0,971.0,2001
+639 25th Ave, San Francisco,CA,94121,2.0,3.0,Single Family Residence,1375000.0,1844.0,1920
+2112 Hyde St #1, San Francisco,CA,94109,1.5,2.0,Condominium,1300000.0,888.0,1964
+87 Santa Cruz Ave, San Francisco,CA,94112,2.5,3.0,Single Family Residence,1160000.0,1263.0,1950
+223 Byxbee St, San Francisco,CA,94132,1.0,2.0,Single Family Residence,1000000.0,812.0,1942
+2343 30th Ave, San Francisco,CA,94116,4.5,4.0,Single Family Residence,1600000.0,2016.0,1938
+1982 44th Ave, San Francisco,CA,94116,1.0,3.0,Single Family Residence,1370000.0,1150.0,1945
+798 Monterey Blvd #3A, San Francisco,CA,94127,2.0,2.0,Condominium,950000.0,1089.0,1986
+84 Dorland St #2, San Francisco,CA,94110,1.0,2.0,Condominium,1390000.0,1375.0,1915
+3207 Jennings St, San Francisco,CA,94124,2.5,3.0,Single Family Residence,1225000.0,1632.0,1911
+254 Brussels St, San Francisco,CA,94134,1.0,2.0,Single Family Residence,809000.0,1375.0,1927
+26 Cross St, San Francisco,CA,94112,1.0,1.0,Single Family Residence,930000.0,1155.0,1927
+338 Potrero Ave Ph3, San Francisco,CA,94103,2.0,2.0,Condominium,1800000.0,1215.0,2016
+489 Madrid St, San Francisco,CA,94112,1.0,2.0,Single Family Residence,667000.0,1900.0,1900
+25 Dichiera Ct, San Francisco,CA,94112,2.0,3.0,Single Family Residence,1425000.0,2038.0,1964
+5 Lydia Ave, San Francisco,CA,94124,2.0,3.0,Single Family Residence,1085000.0,1394.0,1998
+703 Dartmouth, San Francisco,CA,94134,3.0,3.0,Single Family Residence,1200000.0,1274.0,1939
+2075 Sutter St #221, San Francisco,CA,94115,2.0,2.0,Condominium,1250000.0,1044.0,1992
+715 Corbett Ave, San Francisco,CA,94131,2.5,2.0,Condominium,1730000.0,1780.0,1997
+539 Ortega St, San Francisco,CA,94122,2.0,3.0,Single Family Residence,1440000.0,1457.0,1957
+689 26th Ave, San Francisco,CA,94121,4.0,4.0,Single Family Residence,2115000.0,2209.0,1920
+1510 7th Ave, San Francisco,CA,94122,3.0,4.0,Single Family Residence,2125000.0,1814.0,1914
+5440 Anza St, San Francisco,CA,94121,4.0,5.0,Single Family Residence,2398000.0,2828.0,1923
+1731 Larkin Street #5, San Francisco,CA,94109,2.0,2.0,Condominium,1550000.0,1085.0,1908
+470 Bayview Cir, San Francisco,CA,94124,2.5,3.0,Townhouse,990000.0,1472.0,1986
+355 1st St S904, San Francisco,CA,94105,2.0,2.0,Condominium,422150.0,1034.0,2004
+342 Judson Ave, San Francisco,CA,94112,2.0,3.0,Single Family Residence,1650000.0,1625.0,1928
+2094 Bush St, San Francisco,CA,94115,2.5,3.0,Single Family Residence,2700000.0,2346.0,1878
+2036 Alemany Blvd, San Francisco,CA,94112,2.5,3.0,Single Family Residence,1100000.0,1100.0,1939
+270 S Hill Blvd, San Francisco,CA,94112,2.0,3.0,Single Family Residence,1230000.0,1360.0,1931
+565 Oxford St, San Francisco,CA,94134,3.0,5.0,Single Family Residence,1750000.0,4135.0,2005
+76 Cortland Ave, San Francisco,CA,94110,2.5,3.0,Single Family Residence,1605000.0,1392.0,1995
+825 La Playa St #225, San Francisco,CA,94121,2.0,2.0,Condominium,835000.0,1300.0,1983
+1891 35th Ave, San Francisco,CA,94122,4.0,4.0,Single Family Residence,1730000.0,1840.0,1941
+535 Raymond, San Francisco,CA,94134,1.5,3.0,Single Family Residence,965000.0,1200.0,1962
+300 Baltimore Way, San Francisco,CA,94112,2.0,5.0,Single Family Residence,1300000.0,1671.0,1960
+27 Seville St, San Francisco,CA,94112,1.0,3.0,Single Family Residence,932000.0,1141.0,1923
+1097 Green St #10, San Francisco,CA,94133,2.0,2.0,Condominium,1580000.0,1200.0,1910
+338 Main St D9a, San Francisco,CA,94105,2.0,2.0,Condominium,1915000.0,1379.0,2016
+1400 Mission St #1306, San Francisco,CA,94103,1.0,1.0,Condominium,632500.0,631.0,2015
+428 8th St #101, San Francisco,CA,94103,2.0,1.0,Condominium,875000.0,1056.0,2002
+300 Molimo Dr, San Francisco,CA,94127,5.5,4.0,Single Family Residence,3100000.0,3338.0,1949
+119 Ramsell St, San Francisco,CA,94132,2.0,3.0,Single Family Residence,1175000.0,1416.0,1964
+1001 Pine St #1306, San Francisco,CA,94109,1.0,1.0,Condominium,815000.0,650.0,1963
+1650 Jackson St #708, San Francisco,CA,94109,2.0,2.0,Condominium,1385000.0,1103.0,1991
+1028 Innes Ave, San Francisco,CA,94124,2.0,3.0,Single Family Residence,935000.0,1350.0,1988
+4222 Ulloa St, San Francisco,CA,94116,1.0,2.0,Single Family Residence,1265000.0,1275.0,1941
+999 Green St #1105, San Francisco,CA,94133,1.0,1.0,Condominium,1400000.0,986.0,1964
+333 Beale St #3A, San Francisco,CA,94105,1.0,1.0,Condominium,865000.0,635.0,2015
+222 Naples St, San Francisco,CA,94112,2.0,2.0,Single Family Residence,945000.0,875.0,1925
+2622 18th Ave, San Francisco,CA,94116,1.0,3.0,Single Family Residence,1500000.0,1400.0,1935
+425 1st St #5406, San Francisco,CA,94105,2.0,2.0,Condominium,2400250.0,1268.0,2008
+2243 Franklin St, San Francisco,CA,94109,2.0,2.0,Condominium,1855000.0,1463.0,1900
+318 Main St #3E, San Francisco,CA,94105,2.0,1.0,Condominium,1365000.0,1098.0,2015
+38 Southwood Dr, San Francisco,CA,94112,1.0,2.0,Single Family Residence,1457000.0,1131.0,1947
+959 Capitol Ave, San Francisco,CA,94112,1.0,2.0,Single Family Residence,1055000.0,1050.0,1924
+88 Raymond Ave, San Francisco,CA,94134,1.0,2.0,Single Family Residence,960000.0,1515.0,1938
+1158 Sutter St #13, San Francisco,CA,94109,2.0,2.0,Condominium,1100000.0,1057.0,2008
+1738 35th Ave, San Francisco,CA,94122,4.0,4.0,Single Family Residence,1950000.0,2370.0,1941
+201 Foote Ave, San Francisco,CA,94112,1.0,2.0,Single Family Residence,1116800.0,1225.0,1954
+60 Corona St, San Francisco,CA,94127,4.0,4.0,Single Family Residence,2150000.0,2493.0,1923
+181 Collins St, San Francisco,CA,94118,1.5,3.0,Single Family Residence,1975000.0,2000.0,1915
+701 Minnesota St #157, San Francisco,CA,94107,1.0,1.0,Condominium,1099000.0,1093.0,1900
+66 Restani Way, San Francisco,CA,94112,3.0,2.0,Single Family Residence,1240000.0,1716.0,1954
+201 Frida Kahlo Way, San Francisco,CA,94112,1.0,2.0,Single Family Residence,1277000.0,1062.0,1922
+322 Moscow St, San Francisco,CA,94112,3.0,3.0,Single Family Residence,1022000.0,1200.0,1900
+269 Claremont Blvd, San Francisco,CA,94127,2.0,3.0,Single Family Residence,1795000.0,1890.0,1920
+11 W View Ave, San Francisco,CA,94134,4.0,3.0,Single Family Residence,1300000.0,1352.0,1943
+1991 21st Ave, San Francisco,CA,94116,4.5,4.0,Single Family Residence,1925000.0,2000.0,1938
+24 Regent St, San Francisco,CA,94112,3.0,4.0,Single Family Residence,1050000.0,1600.0,1913
+2343 25th Ave, San Francisco,CA,94116,4.0,4.0,Single Family Residence,2260000.0,2560.0,1926
+1325 Divisadero St #301, San Francisco,CA,94115,1.0,1.0,Condominium,615000.0,486.0,1925
+258 Howth St, San Francisco,CA,94112,1.0,2.0,Single Family Residence,955000.0,955.0,1916
+2448 Alemany Blvd, San Francisco,CA,94112,1.0,2.0,Single Family Residence,1110000.0,1470.0,1938
+675 Prentiss St, San Francisco,CA,94110,1.0,3.0,Single Family Residence,1150000.0,1204.0,1959
+936 Olmstead St, San Francisco,CA,94134,1.0,2.0,Single Family Residence,1100000.0,1016.0,1952
+1880 Steiner St #409, San Francisco,CA,94115,2.0,2.0,Condominium,1261000.0,983.0,1999
+259 Wilson St, San Francisco,CA,94112,1.0,2.0,Single Family Residence,875000.0,880.0,1914
+501 Crescent Way #5212, San Francisco,CA,94134,2.0,2.0,Condominium,760000.0,875.0,2006
+451 Stoneridge Ln #3102, San Francisco,CA,94134,2.0,2.0,Condominium,750000.0,1068.0,1996
+115 Colby St, San Francisco,CA,94134,3.0,3.0,Single Family Residence,1750000.0,1715.0,1970
+643 40th Ave, San Francisco,CA,94121,1.5,3.0,Single Family Residence,1610000.0,1448.0,1924
+1055 Gilman Ave, San Francisco,CA,94124,1.0,2.0,Single Family Residence,800000.0,950.0,1908
+1863 Pine St, San Francisco,CA,94109,1.5,3.0,Single Family Residence,1485000.0,1390.0,1900
+647 34th Ave, San Francisco,CA,94121,3.0,4.0,Single Family Residence,2065000.0,2432.0,1926
+210 Rose St, San Francisco,CA,94102,1.0,2.0,Condominium,1102101.0,859.0,1900
+635 42nd Ave, San Francisco,CA,94121,4.5,4.0,Single Family Residence,2900000.0,2518.0,1923
+659 26th Ave, San Francisco,CA,94121,3.5,3.0,Single Family Residence,1880000.0,2038.0,1913
+80 Miraloma Dr, San Francisco,CA,94127,3.0,4.0,Single Family Residence,2200000.0,2984.0,1960
+2426 Santiago St, San Francisco,CA,94116,2.0,3.0,Single Family Residence,1500000.0,1646.0,1940
+28 Nebraska St, San Francisco,CA,94110,2.0,4.0,Single Family Residence,1785000.0,1758.0,1926
+278 Thrift St, San Francisco,CA,94112,2.0,3.0,Single Family Residence,995000.0,1293.0,1960
+4040 Balboa St #3, San Francisco,CA,94121,1.0,2.0,Condominium,729000.0,670.0,1998
+371 Wilde Ave, San Francisco,CA,94134,1.0,2.0,Single Family Residence,975000.0,1027.0,1951
+8200 Oceanview Ter #121, San Francisco,CA,94132,2.0,3.0,Condominium,830000.0,1186.0,2002
+722 37th Ave, San Francisco,CA,94121,2.5,3.0,Single Family Residence,1640000.0,1700.0,1939
+73 Dolores Ter, San Francisco,CA,94110,2.5,3.0,Townhouse,1980000.0,1548.0,1998
+1887 42nd Ave, San Francisco,CA,94122,2.0,3.0,Single Family Residence,1000000.0,1289.0,1944
+2346 Clement St #1, San Francisco,CA,94121,2.5,2.0,Condominium,1050000.0,1265.0,2002
+149 Bertita St, San Francisco,CA,94112,1.0,1.0,Single Family Residence,850000.0,988.0,1918
+1318 Larkin St, San Francisco,CA,94109,1.5,3.0,Condominium,1174000.0,1820.0,1908
+179 Tucker Ave, San Francisco,CA,94134,1.0,2.0,Single Family Residence,1002616.0,1040.0,1951
+95 Red Rock Way #102M, San Francisco,CA,94131,1.0,1.0,Condominium,675000.0,830.0,1972
+2186 34th Ave, San Francisco,CA,94116,2.0,5.0,Single Family Residence,1460000.0,1900.0,1948
+35 Cityview Way, San Francisco,CA,94131,4.0,4.0,Single Family Residence,2130000.0,2088.0,1955
+675 Prentiss St, San Francisco,CA,94110,1.0,3.0,Single Family Residence,1150000.0,1204.0,1959
+936 Olmstead St, San Francisco,CA,94134,1.0,2.0,Single Family Residence,1100000.0,1016.0,1952
+1880 Steiner St #409, San Francisco,CA,94115,2.0,2.0,Condominium,1261000.0,983.0,1999
+259 Wilson St, San Francisco,CA,94112,1.0,2.0,Single Family Residence,875000.0,880.0,1914
+501 Crescent Way #5212, San Francisco,CA,94134,2.0,2.0,Condominium,760000.0,875.0,2006
+451 Stoneridge Ln #3102, San Francisco,CA,94134,2.0,2.0,Condominium,750000.0,1068.0,1996
+115 Colby St, San Francisco,CA,94134,3.0,3.0,Single Family Residence,1750000.0,1715.0,1970
+643 40th Ave, San Francisco,CA,94121,1.5,3.0,Single Family Residence,1610000.0,1448.0,1924
+1055 Gilman Ave, San Francisco,CA,94124,1.0,2.0,Single Family Residence,800000.0,950.0,1908
+1863 Pine St, San Francisco,CA,94109,1.5,3.0,Single Family Residence,1485000.0,1390.0,1900
+647 34th Ave, San Francisco,CA,94121,3.0,4.0,Single Family Residence,2065000.0,2432.0,1926
+210 Rose St, San Francisco,CA,94102,1.0,2.0,Condominium,1102101.0,859.0,1900
+635 42nd Ave, San Francisco,CA,94121,4.5,4.0,Single Family Residence,2900000.0,2518.0,1923
+659 26th Ave, San Francisco,CA,94121,3.5,3.0,Single Family Residence,1880000.0,2038.0,1913
+80 Miraloma Dr, San Francisco,CA,94127,3.0,4.0,Single Family Residence,2200000.0,2984.0,1960
+2426 Santiago St, San Francisco,CA,94116,2.0,3.0,Single Family Residence,1500000.0,1646.0,1940
+28 Nebraska St, San Francisco,CA,94110,2.0,4.0,Single Family Residence,1785000.0,1758.0,1926
+278 Thrift St, San Francisco,CA,94112,2.0,3.0,Single Family Residence,995000.0,1293.0,1960
+4040 Balboa St #3, San Francisco,CA,94121,1.0,2.0,Condominium,729000.0,670.0,1998
+371 Wilde Ave, San Francisco,CA,94134,1.0,2.0,Single Family Residence,975000.0,1027.0,1951
+8200 Oceanview Ter #121, San Francisco,CA,94132,2.0,3.0,Condominium,830000.0,1186.0,2002
+722 37th Ave, San Francisco,CA,94121,2.5,3.0,Single Family Residence,1640000.0,1700.0,1939
+73 Dolores Ter, San Francisco,CA,94110,2.5,3.0,Townhouse,1980000.0,1548.0,1998
+1887 42nd Ave, San Francisco,CA,94122,2.0,3.0,Single Family Residence,1000000.0,1289.0,1944
+2346 Clement St #1, San Francisco,CA,94121,2.5,2.0,Condominium,1050000.0,1265.0,2002
+149 Bertita St, San Francisco,CA,94112,1.0,1.0,Single Family Residence,850000.0,988.0,1918
+1318 Larkin St, San Francisco,CA,94109,1.5,3.0,Condominium,1174000.0,1820.0,1908
+179 Tucker Ave, San Francisco,CA,94134,1.0,2.0,Single Family Residence,1002616.0,1040.0,1951
+95 Red Rock Way #102M, San Francisco,CA,94131,1.0,1.0,Condominium,675000.0,830.0,1972
+2186 34th Ave, San Francisco,CA,94116,2.0,5.0,Single Family Residence,1460000.0,1900.0,1948
+35 Cityview Way, San Francisco,CA,94131,4.0,4.0,Single Family Residence,2130000.0,2088.0,1955
+675 Prentiss St, San Francisco,CA,94110,1.0,3.0,Single Family Residence,1150000.0,1204.0,1959
+936 Olmstead St, San Francisco,CA,94134,1.0,2.0,Single Family Residence,1100000.0,1016.0,1952
+1880 Steiner St #409, San Francisco,CA,94115,2.0,2.0,Condominium,1261000.0,983.0,1999
+259 Wilson St, San Francisco,CA,94112,1.0,2.0,Single Family Residence,875000.0,880.0,1914
+501 Crescent Way #5212, San Francisco,CA,94134,2.0,2.0,Condominium,760000.0,875.0,2006
+451 Stoneridge Ln #3102, San Francisco,CA,94134,2.0,2.0,Condominium,750000.0,1068.0,1996
+115 Colby St, San Francisco,CA,94134,3.0,3.0,Single Family Residence,1750000.0,1715.0,1970
+643 40th Ave, San Francisco,CA,94121,1.5,3.0,Single Family Residence,1610000.0,1448.0,1924
+1055 Gilman Ave, San Francisco,CA,94124,1.0,2.0,Single Family Residence,800000.0,950.0,1908
+1863 Pine St, San Francisco,CA,94109,1.5,3.0,Single Family Residence,1485000.0,1390.0,1900
+647 34th Ave, San Francisco,CA,94121,3.0,4.0,Single Family Residence,2065000.0,2432.0,1926
+210 Rose St, San Francisco,CA,94102,1.0,2.0,Condominium,1102101.0,859.0,1900
+635 42nd Ave, San Francisco,CA,94121,4.5,4.0,Single Family Residence,2900000.0,2518.0,1923
+659 26th Ave, San Francisco,CA,94121,3.5,3.0,Single Family Residence,1880000.0,2038.0,1913
+80 Miraloma Dr, San Francisco,CA,94127,3.0,4.0,Single Family Residence,2200000.0,2984.0,1960
+2426 Santiago St, San Francisco,CA,94116,2.0,3.0,Single Family Residence,1500000.0,1646.0,1940
+28 Nebraska St, San Francisco,CA,94110,2.0,4.0,Single Family Residence,1785000.0,1758.0,1926
+278 Thrift St, San Francisco,CA,94112,2.0,3.0,Single Family Residence,995000.0,1293.0,1960
+4040 Balboa St #3, San Francisco,CA,94121,1.0,2.0,Condominium,729000.0,670.0,1998
+371 Wilde Ave, San Francisco,CA,94134,1.0,2.0,Single Family Residence,975000.0,1027.0,1951
+8200 Oceanview Ter #121, San Francisco,CA,94132,2.0,3.0,Condominium,830000.0,1186.0,2002
+722 37th Ave, San Francisco,CA,94121,2.5,3.0,Single Family Residence,1640000.0,1700.0,1939
+73 Dolores Ter, San Francisco,CA,94110,2.5,3.0,Townhouse,1980000.0,1548.0,1998
+1887 42nd Ave, San Francisco,CA,94122,2.0,3.0,Single Family Residence,1000000.0,1289.0,1944
+2346 Clement St #1, San Francisco,CA,94121,2.5,2.0,Condominium,1050000.0,1265.0,2002
+149 Bertita St, San Francisco,CA,94112,1.0,1.0,Single Family Residence,850000.0,988.0,1918
+1318 Larkin St, San Francisco,CA,94109,1.5,3.0,Condominium,1174000.0,1820.0,1908
+179 Tucker Ave, San Francisco,CA,94134,1.0,2.0,Single Family Residence,1002616.0,1040.0,1951
+95 Red Rock Way #102M, San Francisco,CA,94131,1.0,1.0,Condominium,675000.0,830.0,1972
+2186 34th Ave, San Francisco,CA,94116,2.0,5.0,Single Family Residence,1460000.0,1900.0,1948
+35 Cityview Way, San Francisco,CA,94131,4.0,4.0,Single Family Residence,2130000.0,2088.0,1955
+758 Haight St #2, San Francisco,CA,94117,1.0,1.0,Condominium,850000.0,665.0,1900
+815 Tennessee St #204, San Francisco,CA,94107,2.0,2.0,Condominium,1245000.0,925.0,2018
+73 Norton St, San Francisco,CA,94112,2.0,2.0,Single Family Residence,978000.0,1350.0,1939
+9 Toyon Ln, San Francisco,CA,94112,1.5,3.0,Single Family Residence,1180000.0,1270.0,1925
+611 Mason St #508, San Francisco,CA,94108,2.0,2.0,Condominium,900000.0,978.0,1986
+50 Lansing St #104, San Francisco,CA,94105,2.0,2.0,Condominium,1050000.0,989.0,2006
+178 Ridgewood Ave C, San Francisco,CA,94112,2.0,3.0,Townhouse,1100000.0,1355.0,1997
+401 Crescent Ct #4103, San Francisco,CA,94134,1.0,1.0,Condominium,570000.0,805.0,2007
+3701 Market St #2, San Francisco,CA,94131,2.0,2.0,Condominium,1150000.0,1232.0,1962
+1614 27th Ave, San Francisco,CA,94122,2.0,2.0,Single Family Residence,1350000.0,1886.0,1937
+477 45th Ave, San Francisco,CA,94121,1.0,2.0,Single Family Residence,1350000.0,1200.0,1923
+5800 3rd St #1120, San Francisco,CA,94124,2.0,2.0,Condominium,805000.0,1083.0,2010
+214 Dorland St, San Francisco,CA,94114,1.0,2.0,Condominium,1375000.0,991.0,1910
+1252 Church St, San Francisco,CA,94114,1.0,2.0,Single Family Residence,1050000.0,1050.0,1900
+1986 42nd Ave, San Francisco,CA,94116,2.0,3.0,Single Family Residence,1125000.0,1214.0,1949
+814 Grafton Ave, San Francisco,CA,94112,1.0,2.0,Single Family Residence,925000.0,1150.0,1936
+100 Augusta St, San Francisco,CA,94124,3.0,4.0,Single Family Residence,1320000.0,2075.0,1947
+201 Folsom St #33E, San Francisco,CA,94105,3.0,3.0,Condominium,3300000.0,1784.0,2016
+645 42nd Ave, San Francisco,CA,94121,1.0,3.0,Single Family Residence,1521000.0,1567.0,1923
+2336 Sloat Blvd, San Francisco,CA,94116,1.0,3.0,Single Family Residence,1300000.0,1350.0,1948
+52 Harper St, San Francisco,CA,94131,2.0,2.0,Single Family Residence,1510000.0,1293.0,1914
+1880 16th Ave, San Francisco,CA,94122,2.0,4.0,Single Family Residence,1875000.0,2300.0,1938
+1946 30th Ave, San Francisco,CA,94116,3.0,4.0,Single Family Residence,1630000.0,1752.0,1940
+151 23rd Ave, San Francisco,CA,94121,3.5,3.0,Condominium,1900000.0,2201.0,1923
+3037 Van Ness Ave #2, San Francisco,CA,94109,1.0,2.0,Condominium,899000.0,811.0,1922
+125 Alma St, San Francisco,CA,94117,2.0,3.0,Single Family Residence,1925000.0,963.0,1910
+2776 San Jose Ave, San Francisco,CA,94112,3.0,5.0,Single Family Residence,1250000.0,2137.0,1961
+60 Racine Ln, San Francisco,CA,94134,4.0,6.0,Single Family Residence,1550000.0,2315.0,1953
+2090 31st Ave, San Francisco,CA,94116,2.0,3.0,Single Family Residence,1213000.0,1200.0,1950
+8200 Oceanview Ter #320, San Francisco,CA,94132,2.0,2.0,Condominium,855000.0,1005.0,2002
+1610 Alemany Blvd, San Francisco,CA,94112,2.0,3.0,Single Family Residence,1200000.0,2028.0,1940
+2271 40th Ave, San Francisco,CA,94116,4.0,4.0,Single Family Residence,1768500.0,1775.0,1948
+2038 20th Ave, San Francisco,CA,94116,4.5,4.0,Single Family Residence,2100000.0,2246.0,1929
+75 Montcalm St, San Francisco,CA,94110,1.0,2.0,Single Family Residence,980000.0,900.0,1906
+701 Quintara St, San Francisco,CA,94116,4.5,4.0,Single Family Residence,1900000.0,1818.0,1940
+301 Mission St #8E, San Francisco,CA,94105,2.0,2.0,Condominium,925000.0,1098.0,2009
+829 Oak St B, San Francisco,CA,94117,2.0,2.0,Condominium,899000.0,816.0,1900
+2944 19th Ave, San Francisco,CA,94132,1.5,2.0,Single Family Residence,1260000.0,1813.0,1938
+11 Ervine St, San Francisco,CA,94134,2.5,3.0,Single Family Residence,945000.0,2157.0,1989
+42nd Ave, San Francisco,CA,94116,2.0,3.0,Single Family Residence,1220000.0,1494.0,1967
+684 Clarendon Ave, San Francisco,CA,94131,2.5,2.0,Townhouse,1150000.0,1485.0,1977
+1788 Clay St #308, San Francisco,CA,94109,2.0,2.0,Condominium,1410000.0,1235.0,2014
+29 Kiska Rd, San Francisco,CA,94124,1.0,2.0,Condominium,630000.0,1272.0,1996
+4326 Cabrillo St, San Francisco,CA,94121,1.0,2.0,Single Family Residence,1308000.0,1491.0,1923
+439 Greenwich St #3B, San Francisco,CA,94133,1.0,1.0,Condominium,710000.0,514.0,1979
+277 Munich St, San Francisco,CA,94112,1.0,3.0,Single Family Residence,800000.0,822.0,1908
+1915 Funston Ave, San Francisco,CA,94116,2.0,4.0,Single Family Residence,1615000.0,1929.0,1959
+2450 30th Ave, San Francisco,CA,94116,2.0,3.0,Single Family Residence,1300000.0,1563.0,1939
+774 Potrero Ave, San Francisco,CA,94110,1.5,3.0,Single Family Residence,1350000.0,1740.0,1924
+1866 Egbert Ave, San Francisco,CA,94124,2.0,3.0,Single Family Residence,952000.0,1547.0,1925
+55 Arco Way, San Francisco,CA,94112,1.5,2.0,Single Family Residence,1100000.0,1065.0,1941
+1618 36th Ave, San Francisco,CA,94122,3.0,2.0,Single Family Residence,1450000.0,1790.0,1938
+112 Russ St, San Francisco,CA,94103,2.0,2.0,Condominium,860000.0,811.0,1908
+147 Silliman St, San Francisco,CA,94134,1.0,3.0,Single Family Residence,898000.0,1275.0,1905
+109 S Lake Merced Hls #3A, San Francisco,CA,94132,2.0,2.0,Condominium,740000.0,1474.0,1975
+372 Pope St, San Francisco,CA,94112,1.0,2.0,Single Family Residence,1135000.0,1749.0,1929
+1788 Clay St #607, San Francisco,CA,94109,1.0,1.0,Condominium,985000.0,764.0,2014
+699 Pennsylvania Ave #1, San Francisco,CA,94107,1.5,1.0,Condominium,810000.0,971.0,2001
+639 25th Ave, San Francisco,CA,94121,2.0,3.0,Single Family Residence,1375000.0,1844.0,1920
+2112 Hyde St #1, San Francisco,CA,94109,1.5,2.0,Condominium,1300000.0,888.0,1964
+87 Santa Cruz Ave, San Francisco,CA,94112,2.5,3.0,Single Family Residence,1160000.0,1263.0,1950
+223 Byxbee St, San Francisco,CA,94132,1.0,2.0,Single Family Residence,1000000.0,812.0,1942
+2343 30th Ave, San Francisco,CA,94116,4.5,4.0,Single Family Residence,1600000.0,2016.0,1938
+1982 44th Ave, San Francisco,CA,94116,1.0,3.0,Single Family Residence,1370000.0,1150.0,1945
+798 Monterey Blvd #3A, San Francisco,CA,94127,2.0,2.0,Condominium,950000.0,1089.0,1986
+84 Dorland St #2, San Francisco,CA,94110,1.0,2.0,Condominium,1390000.0,1375.0,1915
+3207 Jennings St, San Francisco,CA,94124,2.5,3.0,Single Family Residence,1225000.0,1632.0,1911
+254 Brussels St, San Francisco,CA,94134,1.0,2.0,Single Family Residence,809000.0,1375.0,1927
+26 Cross St, San Francisco,CA,94112,1.0,1.0,Single Family Residence,930000.0,1155.0,1927
+11 Ervine St, San Francisco,CA,94134,2.5,3.0,Single Family Residence,945000.0,2157.0,1989
+42nd Ave, San Francisco,CA,94116,2.0,3.0,Single Family Residence,1220000.0,1494.0,1967
+684 Clarendon Ave, San Francisco,CA,94131,2.5,2.0,Townhouse,1150000.0,1485.0,1977
+1788 Clay St #308, San Francisco,CA,94109,2.0,2.0,Condominium,1410000.0,1235.0,2014
+29 Kiska Rd, San Francisco,CA,94124,1.0,2.0,Condominium,630000.0,1272.0,1996
+4326 Cabrillo St, San Francisco,CA,94121,1.0,2.0,Single Family Residence,1308000.0,1491.0,1923
+439 Greenwich St #3B, San Francisco,CA,94133,1.0,1.0,Condominium,710000.0,514.0,1979
+277 Munich St, San Francisco,CA,94112,1.0,3.0,Single Family Residence,800000.0,822.0,1908
+1915 Funston Ave, San Francisco,CA,94116,2.0,4.0,Single Family Residence,1615000.0,1929.0,1959
+2450 30th Ave, San Francisco,CA,94116,2.0,3.0,Single Family Residence,1300000.0,1563.0,1939
+774 Potrero Ave, San Francisco,CA,94110,1.5,3.0,Single Family Residence,1350000.0,1740.0,1924
+1866 Egbert Ave, San Francisco,CA,94124,2.0,3.0,Single Family Residence,952000.0,1547.0,1925
+55 Arco Way, San Francisco,CA,94112,1.5,2.0,Single Family Residence,1100000.0,1065.0,1941
+1618 36th Ave, San Francisco,CA,94122,3.0,2.0,Single Family Residence,1450000.0,1790.0,1938
+112 Russ St, San Francisco,CA,94103,2.0,2.0,Condominium,860000.0,811.0,1908
+147 Silliman St, San Francisco,CA,94134,1.0,3.0,Single Family Residence,898000.0,1275.0,1905
+109 S Lake Merced Hls #3A, San Francisco,CA,94132,2.0,2.0,Condominium,740000.0,1474.0,1975
+372 Pope St, San Francisco,CA,94112,1.0,2.0,Single Family Residence,1135000.0,1749.0,1929
+1788 Clay St #607, San Francisco,CA,94109,1.0,1.0,Condominium,985000.0,764.0,2014
+699 Pennsylvania Ave #1, San Francisco,CA,94107,1.5,1.0,Condominium,810000.0,971.0,2001
+639 25th Ave, San Francisco,CA,94121,2.0,3.0,Single Family Residence,1375000.0,1844.0,1920
+2112 Hyde St #1, San Francisco,CA,94109,1.5,2.0,Condominium,1300000.0,888.0,1964
+87 Santa Cruz Ave, San Francisco,CA,94112,2.5,3.0,Single Family Residence,1160000.0,1263.0,1950
+223 Byxbee St, San Francisco,CA,94132,1.0,2.0,Single Family Residence,1000000.0,812.0,1942
+2343 30th Ave, San Francisco,CA,94116,4.5,4.0,Single Family Residence,1600000.0,2016.0,1938
+1982 44th Ave, San Francisco,CA,94116,1.0,3.0,Single Family Residence,1370000.0,1150.0,1945
+798 Monterey Blvd #3A, San Francisco,CA,94127,2.0,2.0,Condominium,950000.0,1089.0,1986
+84 Dorland St #2, San Francisco,CA,94110,1.0,2.0,Condominium,1390000.0,1375.0,1915
+3207 Jennings St, San Francisco,CA,94124,2.5,3.0,Single Family Residence,1225000.0,1632.0,1911
+254 Brussels St, San Francisco,CA,94134,1.0,2.0,Single Family Residence,809000.0,1375.0,1927
+26 Cross St, San Francisco,CA,94112,1.0,1.0,Single Family Residence,930000.0,1155.0,1927
+338 Potrero Ave Ph3, San Francisco,CA,94103,2.0,2.0,Condominium,1800000.0,1215.0,2016
+489 Madrid St, San Francisco,CA,94112,1.0,2.0,Single Family Residence,667000.0,1900.0,1900
+25 Dichiera Ct, San Francisco,CA,94112,2.0,3.0,Single Family Residence,1425000.0,2038.0,1964
+5 Lydia Ave, San Francisco,CA,94124,2.0,3.0,Single Family Residence,1085000.0,1394.0,1998
+703 Dartmouth, San Francisco,CA,94134,3.0,3.0,Single Family Residence,1200000.0,1274.0,1939
+2075 Sutter St #221, San Francisco,CA,94115,2.0,2.0,Condominium,1250000.0,1044.0,1992
+715 Corbett Ave, San Francisco,CA,94131,2.5,2.0,Condominium,1730000.0,1780.0,1997
+539 Ortega St, San Francisco,CA,94122,2.0,3.0,Single Family Residence,1440000.0,1457.0,1957
+689 26th Ave, San Francisco,CA,94121,4.0,4.0,Single Family Residence,2115000.0,2209.0,1920
+1510 7th Ave, San Francisco,CA,94122,3.0,4.0,Single Family Residence,2125000.0,1814.0,1914
+5440 Anza St, San Francisco,CA,94121,4.0,5.0,Single Family Residence,2398000.0,2828.0,1923
+1731 Larkin Street #5, San Francisco,CA,94109,2.0,2.0,Condominium,1550000.0,1085.0,1908
+470 Bayview Cir, San Francisco,CA,94124,2.5,3.0,Townhouse,990000.0,1472.0,1986
+355 1st St S904, San Francisco,CA,94105,2.0,2.0,Condominium,422150.0,1034.0,2004
+342 Judson Ave, San Francisco,CA,94112,2.0,3.0,Single Family Residence,1650000.0,1625.0,1928
+2094 Bush St, San Francisco,CA,94115,2.5,3.0,Single Family Residence,2700000.0,2346.0,1878
+2036 Alemany Blvd, San Francisco,CA,94112,2.5,3.0,Single Family Residence,1100000.0,1100.0,1939
+270 S Hill Blvd, San Francisco,CA,94112,2.0,3.0,Single Family Residence,1230000.0,1360.0,1931
+565 Oxford St, San Francisco,CA,94134,3.0,5.0,Single Family Residence,1750000.0,4135.0,2005
+76 Cortland Ave, San Francisco,CA,94110,2.5,3.0,Single Family Residence,1605000.0,1392.0,1995
+825 La Playa St #225, San Francisco,CA,94121,2.0,2.0,Condominium,835000.0,1300.0,1983
+1891 35th Ave, San Francisco,CA,94122,4.0,4.0,Single Family Residence,1730000.0,1840.0,1941
+535 Raymond, San Francisco,CA,94134,1.5,3.0,Single Family Residence,965000.0,1200.0,1962
+300 Baltimore Way, San Francisco,CA,94112,2.0,5.0,Single Family Residence,1300000.0,1671.0,1960
+27 Seville St, San Francisco,CA,94112,1.0,3.0,Single Family Residence,932000.0,1141.0,1923
+1097 Green St #10, San Francisco,CA,94133,2.0,2.0,Condominium,1580000.0,1200.0,1910
+338 Main St D9a, San Francisco,CA,94105,2.0,2.0,Condominium,1915000.0,1379.0,2016
+1400 Mission St #1306, San Francisco,CA,94103,1.0,1.0,Condominium,632500.0,631.0,2015
+428 8th St #101, San Francisco,CA,94103,2.0,1.0,Condominium,875000.0,1056.0,2002
+300 Molimo Dr, San Francisco,CA,94127,5.5,4.0,Single Family Residence,3100000.0,3338.0,1949
+119 Ramsell St, San Francisco,CA,94132,2.0,3.0,Single Family Residence,1175000.0,1416.0,1964
+1001 Pine St #1306, San Francisco,CA,94109,1.0,1.0,Condominium,815000.0,650.0,1963
+1650 Jackson St #708, San Francisco,CA,94109,2.0,2.0,Condominium,1385000.0,1103.0,1991
+1028 Innes Ave, San Francisco,CA,94124,2.0,3.0,Single Family Residence,935000.0,1350.0,1988
+4222 Ulloa St, San Francisco,CA,94116,1.0,2.0,Single Family Residence,1265000.0,1275.0,1941
+999 Green St #1105, San Francisco,CA,94133,1.0,1.0,Condominium,1400000.0,986.0,1964
+333 Beale St #3A, San Francisco,CA,94105,1.0,1.0,Condominium,865000.0,635.0,2015
+222 Naples St, San Francisco,CA,94112,2.0,2.0,Single Family Residence,945000.0,875.0,1925
+2622 18th Ave, San Francisco,CA,94116,1.0,3.0,Single Family Residence,1500000.0,1400.0,1935
+425 1st St #5406, San Francisco,CA,94105,2.0,2.0,Condominium,2400250.0,1268.0,2008
+2243 Franklin St, San Francisco,CA,94109,2.0,2.0,Condominium,1855000.0,1463.0,1900
+318 Main St #3E, San Francisco,CA,94105,2.0,1.0,Condominium,1365000.0,1098.0,2015
+38 Southwood Dr, San Francisco,CA,94112,1.0,2.0,Single Family Residence,1457000.0,1131.0,1947
+959 Capitol Ave, San Francisco,CA,94112,1.0,2.0,Single Family Residence,1055000.0,1050.0,1924
+88 Raymond Ave, San Francisco,CA,94134,1.0,2.0,Single Family Residence,960000.0,1515.0,1938
+1158 Sutter St #13, San Francisco,CA,94109,2.0,2.0,Condominium,1100000.0,1057.0,2008
+1738 35th Ave, San Francisco,CA,94122,4.0,4.0,Single Family Residence,1950000.0,2370.0,1941
+201 Foote Ave, San Francisco,CA,94112,1.0,2.0,Single Family Residence,1116800.0,1225.0,1954
+60 Corona St, San Francisco,CA,94127,4.0,4.0,Single Family Residence,2150000.0,2493.0,1923
+181 Collins St, San Francisco,CA,94118,1.5,3.0,Single Family Residence,1975000.0,2000.0,1915
+701 Minnesota St #157, San Francisco,CA,94107,1.0,1.0,Condominium,1099000.0,1093.0,1900
+66 Restani Way, San Francisco,CA,94112,3.0,2.0,Single Family Residence,1240000.0,1716.0,1954
+201 Frida Kahlo Way, San Francisco,CA,94112,1.0,2.0,Single Family Residence,1277000.0,1062.0,1922
+322 Moscow St, San Francisco,CA,94112,3.0,3.0,Single Family Residence,1022000.0,1200.0,1900
+269 Claremont Blvd, San Francisco,CA,94127,2.0,3.0,Single Family Residence,1795000.0,1890.0,1920
+11 W View Ave, San Francisco,CA,94134,4.0,3.0,Single Family Residence,1300000.0,1352.0,1943
+1991 21st Ave, San Francisco,CA,94116,4.5,4.0,Single Family Residence,1925000.0,2000.0,1938
+24 Regent St, San Francisco,CA,94112,3.0,4.0,Single Family Residence,1050000.0,1600.0,1913
+2343 25th Ave, San Francisco,CA,94116,4.0,4.0,Single Family Residence,2260000.0,2560.0,1926
+1325 Divisadero St #301, San Francisco,CA,94115,1.0,1.0,Condominium,615000.0,486.0,1925
+258 Howth St, San Francisco,CA,94112,1.0,2.0,Single Family Residence,955000.0,955.0,1916
+2448 Alemany Blvd, San Francisco,CA,94112,1.0,2.0,Single Family Residence,1110000.0,1470.0,1938
+675 Prentiss St, San Francisco,CA,94110,1.0,3.0,Single Family Residence,1150000.0,1204.0,1959
+936 Olmstead St, San Francisco,CA,94134,1.0,2.0,Single Family Residence,1100000.0,1016.0,1952
+1880 Steiner St #409, San Francisco,CA,94115,2.0,2.0,Condominium,1261000.0,983.0,1999
+259 Wilson St, San Francisco,CA,94112,1.0,2.0,Single Family Residence,875000.0,880.0,1914
+501 Crescent Way #5212, San Francisco,CA,94134,2.0,2.0,Condominium,760000.0,875.0,2006
+451 Stoneridge Ln #3102, San Francisco,CA,94134,2.0,2.0,Condominium,750000.0,1068.0,1996
+115 Colby St, San Francisco,CA,94134,3.0,3.0,Single Family Residence,1750000.0,1715.0,1970
+643 40th Ave, San Francisco,CA,94121,1.5,3.0,Single Family Residence,1610000.0,1448.0,1924
+1055 Gilman Ave, San Francisco,CA,94124,1.0,2.0,Single Family Residence,800000.0,950.0,1908
+1863 Pine St, San Francisco,CA,94109,1.5,3.0,Single Family Residence,1485000.0,1390.0,1900
+647 34th Ave, San Francisco,CA,94121,3.0,4.0,Single Family Residence,2065000.0,2432.0,1926
+210 Rose St, San Francisco,CA,94102,1.0,2.0,Condominium,1102101.0,859.0,1900
+635 42nd Ave, San Francisco,CA,94121,4.5,4.0,Single Family Residence,2900000.0,2518.0,1923
+659 26th Ave, San Francisco,CA,94121,3.5,3.0,Single Family Residence,1880000.0,2038.0,1913
+80 Miraloma Dr, San Francisco,CA,94127,3.0,4.0,Single Family Residence,2200000.0,2984.0,1960
+2426 Santiago St, San Francisco,CA,94116,2.0,3.0,Single Family Residence,1500000.0,1646.0,1940
+28 Nebraska St, San Francisco,CA,94110,2.0,4.0,Single Family Residence,1785000.0,1758.0,1926
+278 Thrift St, San Francisco,CA,94112,2.0,3.0,Single Family Residence,995000.0,1293.0,1960
+4040 Balboa St #3, San Francisco,CA,94121,1.0,2.0,Condominium,729000.0,670.0,1998
+371 Wilde Ave, San Francisco,CA,94134,1.0,2.0,Single Family Residence,975000.0,1027.0,1951
+8200 Oceanview Ter #121, San Francisco,CA,94132,2.0,3.0,Condominium,830000.0,1186.0,2002
+722 37th Ave, San Francisco,CA,94121,2.5,3.0,Single Family Residence,1640000.0,1700.0,1939
+73 Dolores Ter, San Francisco,CA,94110,2.5,3.0,Townhouse,1980000.0,1548.0,1998
+1887 42nd Ave, San Francisco,CA,94122,2.0,3.0,Single Family Residence,1000000.0,1289.0,1944
+2346 Clement St #1, San Francisco,CA,94121,2.5,2.0,Condominium,1050000.0,1265.0,2002
+149 Bertita St, San Francisco,CA,94112,1.0,1.0,Single Family Residence,850000.0,988.0,1918
+1318 Larkin St, San Francisco,CA,94109,1.5,3.0,Condominium,1174000.0,1820.0,1908
+179 Tucker Ave, San Francisco,CA,94134,1.0,2.0,Single Family Residence,1002616.0,1040.0,1951
+95 Red Rock Way #102M, San Francisco,CA,94131,1.0,1.0,Condominium,675000.0,830.0,1972
+2186 34th Ave, San Francisco,CA,94116,2.0,5.0,Single Family Residence,1460000.0,1900.0,1948
+35 Cityview Way, San Francisco,CA,94131,4.0,4.0,Single Family Residence,2130000.0,2088.0,1955
